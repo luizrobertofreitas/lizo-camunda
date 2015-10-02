@@ -14,7 +14,7 @@
 
 ## Testing
 
-1. On the camunda task list: `[Tasklist] (http://localhost:8080/camunda/app/tasklist/default/#/login)`, you can:
+1. On the camunda task list: [Tasklist] (http://localhost:8080/camunda/app/tasklist/default/#/login), you can:
  1. Start new process and select `Lizo Camunda App`
  2. Next you'll see the form task created in the left side
  
